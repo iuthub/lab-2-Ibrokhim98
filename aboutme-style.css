@@ -1,0 +1,19 @@
+h1,h2{
+	color: #1d6ab7;
+}
+body{
+	background: #404142;
+}
+strong{
+	color: yellow;
+}
+p{
+	color: white;
+}
+a{
+	color: red;
+}
+ul,ol{
+	color: white;
+	font-family: Times New Roman;
+}
